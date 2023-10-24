@@ -1,0 +1,22 @@
+{
+	"name": "dcc-portfolio",
+	"version": "0.0.1",
+	"description": "Department of Cloud Computing Members Portfolio",
+	"main": "index.js",
+	"authors": {
+		"name": "AWSCC-PUP MANILA- Cloud Computing",
+		"email": ""
+	},
+	"repository": "/dcc-portfolio",
+	"scripts": {
+		"dev": "vuepress dev src",
+		"build": "vuepress build src"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"vuepress": "^1.5.3"
+	},
+	"dependencies": {
+		"@vuepress/shared-utils": "^1.9.10"
+	}
+}
