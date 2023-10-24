@@ -7,7 +7,7 @@
 		"name": "AWSCC-PUP MANILA- Cloud Computing",
 		"email": "awscloudclub.pupmnl.dcc@gmail.com"
 	},
-	"repository": "/dcc-portfolio",
+	"repository": "https://github.com/AWSCC-PUPMNL-Cloud-Computing/dcc-portfolio",
 	"scripts": {
 		"dev": "vuepress dev src",
 		"build": "vuepress build src"
