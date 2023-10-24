@@ -7,7 +7,7 @@ on:
     - main
 
 env:
-  NODE_VERSION: '16.x'                # set this to the node version to use
+  NODE_VERSION: '16.X'                # set this to the node version to use
 
 jobs:
   build-and-deploy:

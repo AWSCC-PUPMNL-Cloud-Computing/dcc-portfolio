@@ -1,4 +1,4 @@
 # dcc-portfolio
 Department of Cloud Computing Members Portfolio Website
 
-Instructions to be added
+Instructions to be completed
