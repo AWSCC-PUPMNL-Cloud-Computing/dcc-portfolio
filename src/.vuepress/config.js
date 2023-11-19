@@ -56,12 +56,14 @@ module.exports = {
 					},
 					{
 						title: "Junior Cloud Architects",
-						children: [],
+						children: [
+							"/dcc/members/francine-jara",
+						],
 					},
 					{
 						title: "Cloud Guru",
 						children: [
-							"/dcc/members/alf",
+							"/dcc/members/",
 						]
 					},
 				]
