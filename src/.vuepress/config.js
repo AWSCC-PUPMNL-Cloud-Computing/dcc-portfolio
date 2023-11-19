@@ -63,7 +63,7 @@ module.exports = {
 					{
 						title: "Cloud Guru",
 						children: [
-							"/dcc/members/",
+							"/dcc/members/alf",
 						]
 					},
 				]
