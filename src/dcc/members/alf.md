@@ -21,7 +21,21 @@ title: ["Alf the Cloud Guru"]
   <p>My dream is to be the greatest cloud architect in the world and provide everyone a solution using the cloud!</p>
 
   <h2>Social Links</h2>
-  <p>
-    <a href="https://www.facebook.com/AWSCloudClubPUPManila">FaceBook Page</a>
-  </p>
+  <ul>
+    <li>
+      <p>
+        <a href="https://www.facebook.com/AWSCloudClubPUPManila">FaceBook Page</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="https://www.linkedin.com/company/awscc-pupmanila">LinkedIn Page</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="https://github.com/AWS-Cloud-Club">GitHub Page</a>
+      </p>
+    </li>
+  </ul>
 </div>
