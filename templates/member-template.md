@@ -19,9 +19,30 @@ title: ["Name"]
 
   <h2>Dream</h2>
   <p></p>
+  
+  <h2>Goal This Year</h2>
+  <p></p>
 
   <h2>Social Links</h2>
   <p>
     <a href="#">LINK</a>
   </p>
+
+  <ul>
+    <li>
+      <p>
+        <a href="#">LINK</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="#">LINK</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="#">LINK</a>
+      </p>
+    </li>
+  </ul>
 </div>
