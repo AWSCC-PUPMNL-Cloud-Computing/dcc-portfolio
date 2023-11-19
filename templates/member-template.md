@@ -24,10 +24,6 @@ title: ["Name"]
   <p></p>
 
   <h2>Social Links</h2>
-  <p>
-    <a href="#">LINK</a>
-  </p>
-
   <ul>
     <li>
       <p>
