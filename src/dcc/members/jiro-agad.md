@@ -10,7 +10,7 @@ title: ["Jiro Laurenz S. Agad"]
 </div>
 
 <div align="center">
-  <h1>Jiro Laurenz S. Agad/h1>
+  <h1>Jiro Laurenz S. Agad</h1>
 </div>
 
 <div style="text-align: justify;">
