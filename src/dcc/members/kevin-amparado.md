@@ -15,7 +15,7 @@ title: ["Kevin Christian Amparado"]
 
 <div style="text-align: justify;">
   <h2>About Me</h2>
-  <p>A random person that's trying to be the best version of myself.</p>
+  <p>A random person that's trying to be the best version of himself.</p>
 
   <h2>Dream</h2>
   <p>To become financially stable.</p>
