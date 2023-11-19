@@ -48,14 +48,11 @@ module.exports = {
 				children: [
 					{
 						title: "Head and Co-Head",
-						children: [
-						],
+						children: [],
 					},
 					{
 						title: "Senior Cloud Architects",
-						children: [
-
-						],
+						children: [],
 					},
 					{
 						title: "Junior Cloud Architects",
@@ -66,8 +63,7 @@ module.exports = {
 					{
 						title: "Cloud Guru",
 						children: [
-							"/dcc/members/alf"
-							
+							"/dcc/members/alf",
 						]
 					},
 				]
