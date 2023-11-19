@@ -1,6 +1,6 @@
 ---
 tags: ["Member"]
-title: ["Name"]
+title: ["Kevin Christian Amparado"]
 ---
 
 <TagLinks/>
