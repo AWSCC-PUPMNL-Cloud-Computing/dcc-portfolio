@@ -53,7 +53,7 @@ module.exports = {
 					{
 						title: "Senior Cloud Architects",
 						children: [
-							"/dcc/members/kevin-amparado.md",
+							"/dcc/members/kevin-amparado",
 						],
 					},
 					{
