@@ -41,17 +41,17 @@ By the end of the year, I envision myself not just as a coder, but as a creator,
   <ul>
     <li>
       <p>
-        <a href="https://www.facebook.com/paris.jaraaa">LINK</a>
+        <a href="https://www.facebook.com/paris.jaraaa">Facebook</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://www.linkedin.com/in/francine-nastassja-jara-99a454246/">LINK</a>
+        <a href="https://www.linkedin.com/in/francine-nastassja-jara-99a454246/">LinkedIn</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://github.com/SSJIORI">LINK</a>
+        <a href="https://github.com/SSJIORI">Github</a>
       </p>
     </li>
   </ul>
