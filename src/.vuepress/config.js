@@ -57,7 +57,7 @@ module.exports = {
 					{
 						title: "Junior Cloud Architects",
 						children: [
-							"dcc/members/bryce-madelo
+							"/dcc/members/bryce-madelo
 						],
 					},
 					{
