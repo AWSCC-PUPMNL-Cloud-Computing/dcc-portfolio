@@ -42,7 +42,7 @@ module.exports = {
 				]
 			},
 			{	
-				tiitle: "Members",
+				title: "Members",
 				collapsable: false,
 				base: '/dcc/members/',
 				children: [
