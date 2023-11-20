@@ -6,7 +6,7 @@ title: ["Rainier Joshua D. Reyes"]
 <TagLinks/>
 
 <div align="center">
-  <img src="../../rnrjsh/file" width="200" height="200" style="border-radius: 50%; margin-top: 25px;" />
+  <img src="../../images/rnrjsh.jpg" width="200" height="200" style="border-radius: 50%; margin-top: 25px;" />
 </div>
 
 <div align="center">
