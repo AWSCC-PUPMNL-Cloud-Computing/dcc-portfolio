@@ -52,8 +52,10 @@ module.exports = {
 					},
 					{
 						title: "Senior Cloud Architects",
+
 						children: [
 							"/dcc/members/jiro-agad",
+              "dcc/members/anthony-hinay"
 						],
 					},
 					{
