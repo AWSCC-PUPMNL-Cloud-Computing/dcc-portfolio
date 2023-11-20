@@ -55,7 +55,7 @@ module.exports = {
 
 						children: [
 							"/dcc/members/jiro-agad",
-              "dcc/members/anthony-hinay"
+              				"dcc/members/anthony-hinay",
 						],
 					},
 					{
