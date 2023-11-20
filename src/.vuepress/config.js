@@ -42,7 +42,7 @@ module.exports = {
 				]
 			},
 			{	
-				title: "Members",
+				tiitle: "Members",
 				collapsable: false,
 				base: '/dcc/members/',
 				children: [
@@ -52,7 +52,7 @@ module.exports = {
 					},
 					{
 						title: "Senior Cloud Architects",
-						children: [],
+						children: ["dcc/members/anthony-hinay"],
 					},
 					{
 						title: "Junior Cloud Architects",
