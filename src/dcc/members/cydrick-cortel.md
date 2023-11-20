@@ -14,14 +14,14 @@ title: ["Cydrick James Cortel"]
 </div>
 
 <div style="text-align: justify;">
-  <h2>Hello! I'm a second-year IT student with a passion for exploring the dynamic world of technology. My journey in the realm of Information Technology has been both exhilarating and enlightening. As I delve into the intricacies of programming, networking, and system administration, I find joy in unraveling the endless possibilities that technology offers.</h2>
-  <p></p>
+  <h2>About Me</h2>
+  <p>Hello! I'm a second-year IT student with a passion for exploring the dynamic world of technology. My journey in the realm of Information Technology has been both exhilarating and enlightening. As I delve into the intricacies of programming, networking, and system administration, I find joy in unraveling the endless possibilities that technology offers.</p>
 
-  <h2>Become a successful programmer</h2>
-  <p></p>
+  <h2>Dream</h2>
+  <p>Become a successful programmer</p>
   
-  <h2>Finish AWS Badge Grinding</h2>
-  <p></p>
+  <h2>Goal This Year</h2>
+  <p>Finish AWS Badge Grinding</p>
 
   <h2>Social Links</h2>
   <ul>
