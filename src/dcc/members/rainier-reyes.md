@@ -27,17 +27,17 @@ title: ["Rainier Joshua D. Reyes"]
   <ul>
     <li>
       <p>
-        <a href="https://www.facebook.com/rainierjoshua.reyes">LINK</a>
+        <a href="https://www.facebook.com/rainierjoshua.reyes">Facebook</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://www.linkedin.com/in/rainier-joshua-reyes-2260b1288/">LINK</a>
+        <a href="https://www.linkedin.com/in/rainier-joshua-reyes-2260b1288/">LinkedIn</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://github.com/rnr-jsh">LINK</a>
+        <a href="https://github.com/rnr-jsh">Github</a>
       </p>
     </li>
   </ul>
