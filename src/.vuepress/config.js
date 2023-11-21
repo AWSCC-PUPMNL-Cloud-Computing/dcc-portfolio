@@ -52,12 +52,16 @@ module.exports = {
 					},
 					{
 						title: "Senior Cloud Architects",
-						children: [],
+						children: [
+							"/dcc/members/kevin-amparado",
+							"/dcc/members/jiro-agad",
+						],
 					},
 					{
 						title: "Junior Cloud Architects",
 						children: [
 							"/dcc/members/aidan-tiu",
+							"/dcc/members/rainier-reyes",
 						],
 					},
 					{
