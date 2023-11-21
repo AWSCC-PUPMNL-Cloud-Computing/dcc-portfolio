@@ -62,6 +62,7 @@ module.exports = {
 					{
 						title: "Junior Cloud Architects",
 						children: [
+							"/dcc/members/bryce-madelo",
 							"/dcc/members/alvin-feliciano",
 							"/dcc/members/jeiren-mondejar",
 							"/dcc/members/kaysea-bognot",
