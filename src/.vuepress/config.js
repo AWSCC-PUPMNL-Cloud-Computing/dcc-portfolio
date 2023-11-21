@@ -54,7 +54,9 @@ module.exports = {
 					},
 					{
 						title: "Senior Cloud Architects",
-						children: [],
+						children: [
+							
+						],
 					},
 					{
 						title: "Junior Cloud Architects",
