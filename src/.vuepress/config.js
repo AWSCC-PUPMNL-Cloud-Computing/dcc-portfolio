@@ -48,16 +48,25 @@ module.exports = {
 				children: [
 					{
 						title: "Head and Co-Head",
-						children: [],
+						children: [
+							"/dcc/members/rafael-miguel",
+						],
 					},
 					{
 						title: "Senior Cloud Architects",
-						children: [],
+						children: [
+							"/dcc/members/kevin-amparado",
+							"/dcc/members/jiro-agad",
+						],
 					},
 					{
 						title: "Junior Cloud Architects",
 						children: [
 							"/dcc/members/cydrick-cortel",
+							"/dcc/members/rhome-saringayat",
+							"/dcc/members/jericho-marquez",
+							"/dcc/members/aidan-tiu",
+							"/dcc/members/rainier-reyes",
 						],
 					},
 					{
