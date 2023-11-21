@@ -15,14 +15,14 @@ title: ["Bea Allysa May G. Romero"]
 
 <div style="text-align: justify;">
   <h2>About Me</h2>
-  <p>Hello there! I am a dedicated IT student with a deep passion for K-pop and a keen interest in the art of editing. Driven by a genuine love for learning, I am always eager to explore new avenues and acquire new skills. As an introverted individual, I find solace in organized spaces and thrive on the challenge of hard work. My insatiable curiosity fuels my journey to constantly broaden my knowledge and embrace new experiences. With a heart brimming with enthusiasm, I am on a quest to merge my technical prowess with my creative inclinations, all while maintaining a steadfast commitment to personal and professional growth.</p>
+  <p>Hi there! I'm a dedicated IT student passionate about improving my skills, especially in editing. I love learning, exploring new avenues, and embracing challenges. As an introvert, organized spaces bring me solace, and hard work is my kind of thrill. I'm on a quest to merge technical know-how with creative flair, all while growing personally and professionally. Let's connect and create!</p>
 
   <h2>Dream</h2>
   <p>I dream of traveling the world and working in the field of information technology in another country. Traveling and exploring different cultures excites me, and finding a job abroad in IT would be a perfect blend of my passion for adventure and my professional goals.
 </p>
   
   <h2>Goal This Year</h2>
-  <p>To learn more things about cloud computing</p>
+  <p>To be better.</p>
 
   <h2>Social Links</h2>
   <ul>
