@@ -10,7 +10,7 @@ title: ["Bea Allysa May G. Romero"]
 </div>
 
 <div align="center">
-  <h1>Bea Allysa May G. Romero</h1>git
+  <h1>Bea Allysa May G. Romero</h1>
 </div>
 
 <div style="text-align: justify;">
