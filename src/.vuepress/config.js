@@ -49,7 +49,7 @@ module.exports = {
 					{
 						title: "Head and Co-Head",
 						children: [
-							"/dcc/members/rafael-miguel",
+							
 						],
 					},
 					{
