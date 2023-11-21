@@ -56,7 +56,9 @@ module.exports = {
 					},
 					{
 						title: "Junior Cloud Architects",
-						children: [],
+						children: [
+							"/dcc/members/neilxander-sabulao",
+						],
 					},
 					{
 						title: "Cloud Guru",
