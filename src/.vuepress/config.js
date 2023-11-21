@@ -53,6 +53,7 @@ module.exports = {
 					{
 						title: "Senior Cloud Architects",
 						children: [
+							"/dcc/members/kevin-amparado",
 							"/dcc/members/jiro-agad",
 						],
 					},
@@ -60,6 +61,9 @@ module.exports = {
 						title: "Junior Cloud Architects",
 						children: [
 							"/dcc/members/rhome-saringayat",
+							"/dcc/members/jericho-marquez",
+							"/dcc/members/aidan-tiu",
+							"/dcc/members/rainier-reyes",
 						],
 					},
 					{
