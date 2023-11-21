@@ -10,12 +10,12 @@ title: ["Bea Allysa May G. Romero"]
 </div>
 
 <div align="center">
-  <h1>Bea Allysa May G. Romero</h1>
+  <h1>Bea Allysa May G. Romero</h1>git
 </div>
 
 <div style="text-align: justify;">
   <h2>About Me</h2>
-  <p>Hi there! I'm a dedicated IT student passionate about improving my skills, especially in editing. I love learning, exploring new avenues, and embracing challenges. As an introvert, organized spaces bring me solace, and hard work is my kind of thrill. I'm on a quest to merge technical know-how with creative flair, all while growing personally and professionally. Let's connect and create!</p>
+  <p>Hi there! I'm a dedicated IT student passionate about improving my skills, especially in programming. I love learning, exploring new avenues, and embracing challenges. As an introvert, organized spaces bring me solace, and hard work is my kind of thrill. I'm on a quest to merge technical know-how with creative flair, all while growing personally and professionally. Let's connect and create!</p>
 
   <h2>Dream</h2>
   <p>I dream of traveling the world and working in the field of information technology in another country. Traveling and exploring different cultures excites me, and finding a job abroad in IT would be a perfect blend of my passion for adventure and my professional goals.
