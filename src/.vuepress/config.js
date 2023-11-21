@@ -56,7 +56,9 @@ module.exports = {
 					},
 					{
 						title: "Junior Cloud Architects",
-						children: [],
+						children: [
+							"/dcc/members/dion-sobrevilla",
+						],
 					},
 					{
 						title: "Cloud Guru",
