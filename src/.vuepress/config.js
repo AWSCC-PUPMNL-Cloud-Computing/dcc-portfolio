@@ -79,6 +79,7 @@ module.exports = {
 							"/dcc/members/aidan-tiu",
 							"/dcc/members/rainier-reyes",
 							"/dcc/members/tessa-deguzman",
+							"/dcc/members/michael-velasquez",
 						],
 					},
 					{
