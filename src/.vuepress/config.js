@@ -48,16 +48,40 @@ module.exports = {
 				children: [
 					{
 						title: "Head and Co-Head",
-						children: [],
+						children: [
+							"/dcc/members/rafael-miguel",
+						],
 					},
 					{
 						title: "Senior Cloud Architects",
-						children: [],
+						children: [
+							"/dcc/members/kevin-amparado",
+							"/dcc/members/jiro-agad",
+              "dcc/members/anthony-hinay",
+						],
 					},
 					{
 						title: "Junior Cloud Architects",
 						children: [
 							"/dcc/members/daniella-simara",
+							"/dcc/members/cyrus-jimenez",
+							"/dcc/members/dion-sobrevilla",
+							"/dcc/members/glenn-gabrillo",
+							"/dcc/members/neilxander-sabulao",
+							"/dcc/members/bea-romero",
+							"/dcc/members/francine-jara",
+							"/dcc/members/paul-morada",
+							"/dcc/members/bryce-madelo",
+							"/dcc/members/alvin-feliciano",
+							"/dcc/members/jeiren-mondejar",
+							"/dcc/members/kaysea-bognot",
+							"/dcc/members/cydrick-cortel",
+							"/dcc/members/rhome-saringayat",
+							"/dcc/members/jericho-marquez",
+							"/dcc/members/aidan-tiu",
+							"/dcc/members/rainier-reyes",
+							"/dcc/members/tessa-deguzman",
+							"/dcc/members/michael-velasquez",
 						],
 					},
 					{
