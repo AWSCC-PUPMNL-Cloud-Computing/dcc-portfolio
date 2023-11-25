@@ -78,6 +78,7 @@ module.exports = {
 							"/dcc/members/kaysea-bognot",
 							"/dcc/members/cydrick-cortel",
 							"/dcc/members/rhome-saringayat",
+							"/dcc/members/jerald-adlawon",
 							"/dcc/members/jericho-marquez",
 							"/dcc/members/aidan-tiu",
 							"/dcc/members/rainier-reyes",
