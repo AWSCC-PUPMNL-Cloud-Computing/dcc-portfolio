@@ -6,9 +6,10 @@ title: ["Rafael Louie V. Miguel"]
 <TagLinks/>
 
 <div align="center">
-  <img src="../../images/louie.jpg" width="200" height="200" style="border-radius: 50%; margin-top: 25px;" />
+  <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
+    <img src="../../images/louie.jpg" width="200" height="200" style="object-fit: cover; width: 100%; height: 100%;" />
+  </div>
 </div>
-
 <div align="center">
   <h1>Rafael Louie V. Miguel</h1>
 </div>

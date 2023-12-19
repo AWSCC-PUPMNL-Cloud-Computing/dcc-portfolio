@@ -6,7 +6,9 @@ title: ["Alvin M. Feliciano"]
 <TagLinks/>
 
 <div align="center">
-  <img src="../../images/alvin.jpg" width="200" height="200" style="border-radius: 50%; margin-top: 25px;" />
+  <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
+    <img src="../../images/alvin.jpg" width="200" height="200" style="object-fit: cover; width: 100%; height: 110%;" />
+  </div>
 </div>
 
 <div align="center">
