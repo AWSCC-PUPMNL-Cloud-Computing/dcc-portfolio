@@ -84,6 +84,7 @@ module.exports = {
                             "/dcc/members/jeiren-mondejar",
                             "/dcc/members/jerald-adlawon",
                             "/dcc/members/jericho-marquez",
+                            "/dcc/members/johncarlo-lorieta",
                             "/dcc/members/joyrel-baladjay",
                             "/dcc/members/kaysea-bognot",
                             "/dcc/members/michael-velasquez",
