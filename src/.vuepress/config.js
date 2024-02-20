@@ -94,6 +94,7 @@ module.exports = {
                             "/dcc/members/rhome-saringayat",
                             "/dcc/members/tessa-deguzman",
                             "/dcc/members/sheenamae-delima",
+                            "/dcc/members/hezekiah-gutay",
                         ],
                     },
                     {
